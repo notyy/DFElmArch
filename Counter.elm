@@ -5,6 +5,8 @@ import Html.Attributes exposing (style)
 import Html.Events exposing (onClick)
 
 
+add x y = x + y
+
 -- MODEL
 
 type alias Model = Int
